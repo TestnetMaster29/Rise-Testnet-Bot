@@ -102,4 +102,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - DODO Exchange for the swap functionality
 - Inari Bank for lending protocol integration
 
-Last updated: Wed Jun 11 12:36:02 UTC 2025
+Last updated: Thu Jun 12 01:21:49 UTC 2025
